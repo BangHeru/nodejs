@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BangHeru/nodejs#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "formidable": "^1.2.1",
     "upper-case": "^1.1.3"
   }
